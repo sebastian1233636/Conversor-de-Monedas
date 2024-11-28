@@ -14,7 +14,7 @@ public class ApiManager {
 
 
 
-    public Result ConsultaApi(String monedaOrigen, String monedaDestino, double cantidad) throws IOException, InterruptedException {
+    public Result ConsultaApi(String monedaOrigen, String monedaDestino, String cantidad) throws IOException, InterruptedException {
 
         String direccion = "https://v6.exchangerate-api.com/v6/993cf5243de2f89bc8e75e2c/pair/" +monedaOrigen + "/"+ monedaDestino+ "/"+ cantidad;
 

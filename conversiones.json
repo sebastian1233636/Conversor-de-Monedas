@@ -1,0 +1,42 @@
+[
+  {
+    "result": "10087.5",
+    "descripcion": "Dólar a peso Argentino",
+    "fechaHora": "2024-11-28 17:34:59"
+  },
+  {
+    "result": "0.0099133",
+    "descripcion": "Peso Árgentino a Dólar",
+    "fechaHora": "2024-11-28 17:35:02"
+  },
+  {
+    "result": "58.171",
+    "descripcion": "Dólar a Real Brasileño",
+    "fechaHora": "2024-11-28 17:35:06"
+  },
+  {
+    "result": "1.719",
+    "descripcion": "Real Brasileño a Dólar",
+    "fechaHora": "2024-11-28 17:35:14"
+  },
+  {
+    "result": "43987.657",
+    "descripcion": "Dólar a Peso Colombiano",
+    "fechaHora": "2024-11-28 17:35:19"
+  },
+  {
+    "result": "0.0022734",
+    "descripcion": "Peso Colombiano a Dólar",
+    "fechaHora": "2024-11-28 17:35:30"
+  },
+  {
+    "result": "5104.773",
+    "descripcion": "Dólar a Colón Costarricense",
+    "fechaHora": "2024-11-28 17:35:37"
+  },
+  {
+    "result": "11.754",
+    "descripcion": "Colón Costarricense a Dólar",
+    "fechaHora": "2024-11-28 17:35:43"
+  }
+]

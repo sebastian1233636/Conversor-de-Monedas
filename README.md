@@ -1,5 +1,4 @@
 # Conversor-de-Monedas
-Descripción
 La aplicación de conversión de monedas permite a los usuarios convertir cantidades entre diferentes monedas utilizando los tipos de cambio más recientes a través de la API ExchangeRate-API. Esta herramienta facilita la conversión de cualquier moneda a una moneda de destino especificada, obteniendo los tipos de cambio directamente de una fuente confiable.
 
 Características

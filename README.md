@@ -9,4 +9,3 @@ Tecnologías utilizadas
 API: ExchangeRate-API
 Lenguaje: Java
 Interfaz de usuario: Consola (CLI)
-Dependencias: Ninguna (o puede incluir las dependencias necesarias si las hay).
